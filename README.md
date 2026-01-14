@@ -1,5 +1,6 @@
 # Cafe Herrera - Prototype (2016)
 
+- Client: Cafe Herrera Dallas
 - Agency: Switch
 - Design: Switch
 - Development: Boots
